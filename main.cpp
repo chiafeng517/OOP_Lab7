@@ -2,7 +2,7 @@
 
 int main(){
     Cylinder c;
-
+ 
     cin >> c;
     cout<< c;
 
