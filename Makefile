@@ -34,3 +34,4 @@ $(OBJ_DIR):
 # Clean up
 clean:
 	rm -rf $(OBJ_DIR) $(BIN)
+ 
